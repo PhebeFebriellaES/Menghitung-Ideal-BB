@@ -3,7 +3,7 @@
 ## Identitas Mahasiswa
 - Nama  : Phebe Febriella Efarina Sirno 
 - NIM   : 2400991
-- Program Studi  : Pendidikan Sistem dan Teknologi Informasi
+- Kelas  : 2A
 
 ## Identitas Kakak Tingkat
 - Nama  : Fitri Azzahra
@@ -16,19 +16,19 @@
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
-- Input tinggi badan dan usia pengguna
-- Mengecek kondisi usia != 0
-- Validasi Input
-- Menampilkan Hasil Ideal Berat Badan
+ - Input tinggi badan dan usia pengguna
+ - Mengecek kondisi usia != 0
+ - Validasi Input
+ - Menampilkan Hasil Ideal Berat Badan
 
 
 - Konsep yang digunakan:
-- Perulangan (Looping) – for
-- Conditional – If-else
-- Input dan Output – scanf() dan printf()
-- Variabel dan Tipe Data
-- Operasi Aritmatika
-- Fungsi
+ - Perulangan (Looping) – for
+ - Conditional – If-else
+ - Input dan Output – scanf() dan printf()
+ - Variabel dan Tipe Data
+ - Operasi Aritmatika
+ - Fungsi
 
 
 ## Link Video Demo
